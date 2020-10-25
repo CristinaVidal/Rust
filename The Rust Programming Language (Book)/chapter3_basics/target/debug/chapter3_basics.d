@@ -1,0 +1,1 @@
+C:\Users\vidal\Desktop\Repositorios\ GIT\Rust\The\ Rust\ Programming\ Language\ (Book)\chapter3_basics\target\debug\chapter3_basics.exe: C:\Users\vidal\Desktop\Repositorios\ GIT\Rust\The\ Rust\ Programming\ Language\ (Book)\chapter3_basics\src\main.rs
