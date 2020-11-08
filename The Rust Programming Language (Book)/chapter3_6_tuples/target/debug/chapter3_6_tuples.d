@@ -1,0 +1,1 @@
+C:\Users\vidal\Desktop\Repositorios\ GIT\Rust\The\ Rust\ Programming\ Language\ (Book)\chapter3_6_tuples\target\debug\chapter3_6_tuples.exe: C:\Users\vidal\Desktop\Repositorios\ GIT\Rust\The\ Rust\ Programming\ Language\ (Book)\chapter3_6_tuples\src\main.rs
