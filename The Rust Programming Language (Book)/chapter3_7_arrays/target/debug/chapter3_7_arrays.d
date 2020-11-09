@@ -1,0 +1,1 @@
+C:\Users\vidal\Desktop\Repositorios\ GIT\Rust\The\ Rust\ Programming\ Language\ (Book)\chapter3_7_arrays\target\debug\chapter3_7_arrays.exe: C:\Users\vidal\Desktop\Repositorios\ GIT\Rust\The\ Rust\ Programming\ Language\ (Book)\chapter3_7_arrays\src\main.rs
