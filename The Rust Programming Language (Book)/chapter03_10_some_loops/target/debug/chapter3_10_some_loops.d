@@ -1,0 +1,1 @@
+C:\Users\vidal\Desktop\Repositorios\ GIT\Rust\The\ Rust\ Programming\ Language\ (Book)\chapter03_10_some_loops\target\debug\chapter3_10_some_loops.exe: C:\Users\vidal\Desktop\Repositorios\ GIT\Rust\The\ Rust\ Programming\ Language\ (Book)\chapter03_10_some_loops\src\main.rs
