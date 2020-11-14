@@ -2,6 +2,7 @@ fn main() {
     test1();
     test2();
     test3();
+    test4();
 }
 
 fn test1() {
@@ -31,7 +32,7 @@ fn test2() {
 }
 
 fn test3() {
-    println!("Basic loop test:");
+    println!("Basic while test:");
     println!("___________________________");
 
     let mut number = 5;
@@ -40,6 +41,19 @@ fn test3() {
         number -= 1;
     }
     println!("END ! ");
+
+    println!("___________________________");
+}
+
+fn test4() {
+    println!("Basic for test:");
+    println!("___________________________");
+
+    let array = [17, 35, 74, 39, 66, 21];
+
+    for item in array.iter() {
+        println!("Item: {}", item);
+    }
 
     println!("___________________________");
 }
